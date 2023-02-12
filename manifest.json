@@ -1,6 +1,6 @@
 {
-    "name": "test_app_vs",
-    "short_name": "test_app_vs",
+    "name": "flutterfirebaseexample",
+    "short_name": "flutterfirebaseexample",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
